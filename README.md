@@ -1,3 +1,4 @@
 # Automating AWS with Python
 
-This is readme.
+## 01-webotron
+Webotron is a script that will sync a locak dir to s3 bucket
