@@ -1,2 +1,3 @@
-# automating-aws-with-python
-Repository fot Automating AWS with Python
+# Automating AWS with Python
+
+This is readme.
