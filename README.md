@@ -9,4 +9,5 @@ Webtron currently has the following Features
 
 - List bucket
 - List contents of the bucket
--create and set up S3
+- create and set up S3
+- Sync dir tree to S3
